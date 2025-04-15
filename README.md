@@ -1,4 +1,3 @@
 # machine-learning-repo
- my first one
- <br>
-main person - junnaid
+<br>
+These are some mini projects that i have made by using different models accordingly. 
